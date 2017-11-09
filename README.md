@@ -1,4 +1,8 @@
 # RSS Feed Tester
+
+## Directions
+To run the program, please open and select the  "Index.html" file located in the directory labeled "feedReader."
+
 #### Utilizing Jasmine Test Suite
 
 The purpose of this project is to create a test suite for a sample RSS feed. It checks to see if certain CSS classes as well as DOM elements are formatted properly when the page is loaded.
